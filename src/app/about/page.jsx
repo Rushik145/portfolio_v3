@@ -137,8 +137,8 @@ export default function Abourt() {
             </ul>
           </div>
         </div>
-        
-        {/* <div className="relative overflow-hidden max-w-4xl mx-auto mt-7 flex justify-center text-center flex-col gap-2 bg-[#0f0f0f] rounded-[30px] px-4 py-16 group">
+                 
+         <div className="relative overflow-hidden max-w-4xl mx-auto mt-7 flex justify-center text-center flex-col gap-2 bg-[#0f0f0f] rounded-[30px] px-4 py-16 group">
           <h1 className="text-9xl font-[500] text-amber-50">Let's Connect</h1>
           <a
             href="/contact"
@@ -149,7 +149,7 @@ export default function Abourt() {
               <ArrowRight size={50} className="text-black" />
             </div>
           </a>
-        </div> */}
+        </div> 
 
         <div className=" max-w-4xl mx-auto mt-7 flex justify-between  gap-2 bg-[#0f0f0f] text-white/60 font-light rounded-[30px] px-6 py-8 group">
           <div>© 2025. All rights Reserved.</div>
